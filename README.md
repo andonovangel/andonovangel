@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A profoundly determined software developer</h3>
 
+![](https://komarev.com/ghpvc/?username=andonovangel&color=007ea7)
+
 - 🔭 I’m currently working on memoflick - [backend](https://github.com/andonovangel/birthday-reminder-app-backend) / [frontend](https://github.com/andonovangel/birthday-reminder-app-frontend)
 
 - 📫 How to reach me **andonovangel1@gmail.com**
