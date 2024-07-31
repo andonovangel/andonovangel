@@ -3,8 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=andonovangel&color=007ea7)
 
-- 🔭 I’m currently working on memoflick - [backend](https://github.com/andonovangel/birthday-reminder-app-backend) / [frontend](https://github.com/andonovangel/birthday-reminder-app-frontend)
-
 - 📫 How to reach me **andonovangel1@gmail.com**
 
 - 📄 Connect with me [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andonovangel/)
